@@ -28,7 +28,8 @@ Ongoing and Previous Projects
 **Explainable AI** for concrete engineering property prediction and **biobjective optimization** for mix design to reduce carbon footprint and cost.
 [[AAAI workshop paper]](https://xai4sci.github.io/papers/2024/07_explainable_concrete_strength_prediction_with_amortized_gaussian_process.pdf)
 [Code to be available soon]
-<img src="images/my_imgs/xai_opt_concrete/shap.png" width="300"/>
+
+<img src="images/my_imgs/xai_opt_concrete/shap.png" width="700"/>
 
 For more info
 ------
