@@ -16,13 +16,13 @@ Previously, I completed my undergraduate studies at [Tsinghua University, China]
 
 Ongoing and Previous Projects
 ------
-**Efficient LLM scientific literature mining** with a novel method adopting multichoice instruction-tuning of lightweight LLMs to address a variety of linguistic complexity.
+**Efficient LLM scientific literature mining** with a novel method adopting **multichoice instruction-tuning** of lightweight LLMs to address a variety of linguistic complexity.
 [[ICLR workshop paper]](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/iclr2024/39/paper.pdf)
 [[Journal preprint]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5017239)
 [[Code]](https://github.com/YifeiDuan/beneficial-use-LLM)
 <p float="left">
   <img src="images/my_imgs/beneficial_use_llm/multichoice.jpg" width="300"/>
-  <img src="images/my_imgs/beneficial_use_llm/performances.jpg" width="300"/>
+  <img src="images/my_imgs/beneficial_use_llm/performances.jpg" width="400"/>
 </p>
 
 **Explainable AI** for concrete engineering property prediction and **biobjective optimization** for mix design to reduce carbon footprint and cost.
