@@ -20,7 +20,10 @@ Also see [Publications]("https://yifeiduan.github.io//publications/)
 
 **Multimodal representation learning** for materials with a novel generalizable method of **text-graph integration**
 [Work in progress]
-<img src="images/my_imgs/graph_llm/heatmap.jpg" width="400"/>
+<p float="left">
+  <img src="images/my_imgs/graph_llm/heatmap.jpg" width="400"/>
+</p>
+
 
 **Efficient LLM scientific literature mining** with a novel method adopting **multichoice instruction-tuning** of lightweight LLMs to address a variety of linguistic complexity.
 [[ICLR workshop paper]](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/iclr2024/39/paper.pdf)
@@ -44,8 +47,8 @@ Also see [Publications]("https://yifeiduan.github.io//publications/)
 [[Journal paper]](https://www.sciencedirect.com/science/article/abs/pii/S0301479724000227)
 <!-- [[Code]](https://github.com/YifeiDuan/Climate-Change-and-Policy-Impacts-on-China-EWL/tree/Climate-Change-and-Policy-Impacts-EWL) -->
 <p float="left">
-  <img src="images/my_imgs/ewl_coevolution/energy.png" width="300"/>
-  <img src="images/my_imgs/ewl_coevolution/grid_ww.png" width="400"/>
+  <img src="images/my_imgs/ewl_coevolution/energy.PNG" width="300"/>
+  <img src="images/my_imgs/ewl_coevolution/grid_ww.PNG" width="400"/>
 </p>
 
 
