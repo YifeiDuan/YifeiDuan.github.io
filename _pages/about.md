@@ -16,7 +16,7 @@ Previously, I completed my undergraduate studies at [Tsinghua University, China]
 
 Ongoing and Previous Projects
 ------
-Also see [Publications]("https://yifeiduan.github.io//publications/)
+Also see [Publications]("/publications/)
 
 **Multimodal representation learning** for materials with a novel generalizable method of **text-graph integration**
 [Work in progress]
