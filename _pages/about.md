@@ -16,6 +16,12 @@ Previously, I completed my undergraduate studies at [Tsinghua University, China]
 
 Ongoing and Previous Projects
 ------
+Also see [Publications]("https://yifeiduan.github.io//publications/)
+
+**Multimodal representation learning** for materials with a novel generalizable method of **text-graph integration**
+[Work in progress]
+<img src="images/my_imgs/graph_llm/heatmap.jpg" width="400"/>
+
 **Efficient LLM scientific literature mining** with a novel method adopting **multichoice instruction-tuning** of lightweight LLMs to address a variety of linguistic complexity.
 [[ICLR workshop paper]](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/iclr2024/39/paper.pdf)
 [[Journal preprint]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5017239)
@@ -25,11 +31,34 @@ Ongoing and Previous Projects
   <img src="images/my_imgs/beneficial_use_llm/performances.jpg" width="400"/>
 </p>
 
+
 **Explainable AI** for concrete engineering property prediction and **biobjective optimization** for mix design to reduce carbon footprint and cost.
 [[AAAI workshop paper]](https://xai4sci.github.io/papers/2024/07_explainable_concrete_strength_prediction_with_amortized_gaussian_process.pdf)
+[Journal manuscript in preparation]
 [Code to be available soon]
 
 <img src="images/my_imgs/xai_opt_concrete/shap.png" width="700"/>
+
+
+**Cross-system modeling** and **spatiotemporal data analysis** of energy-water-land co-evolution under climate change and policy scenarios.
+[[Journal paper]](https://www.sciencedirect.com/science/article/abs/pii/S0301479724000227)
+<!-- [[Code]](https://github.com/YifeiDuan/Climate-Change-and-Policy-Impacts-on-China-EWL/tree/Climate-Change-and-Policy-Impacts-EWL) -->
+<p float="left">
+  <img src="images/my_imgs/ewl_coevolution/energy.png" width="300"/>
+  <img src="images/my_imgs/ewl_coevolution/grid_ww.png" width="400"/>
+</p>
+
+
+Other Projects with Collaborators
+------
+
+**Conditional generative modeling** for materials synthesis planning
+[[NeurIPS workshop paper]](https://openreview.net/forum?id=hy39qxU6CQ)
+[Further Work in progress]
+
+**Reaction graphs** and **structure-agnostic materials representation learning**
+[[NeurIPS workshop paper]](https://openreview.net/forum?id=VGsXQOTs1E)
+[Further Work in progress]
 
 For more info
 ------
