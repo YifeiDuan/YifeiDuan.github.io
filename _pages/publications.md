@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2024
 
-* LLM-Empowered Literature Mining for Material Substitution Studies in Sustainable Concrete. Yifei Duan, Yixi Tian, Soumya Ghosh, Vineeth Venugopal, Jie Chen, Elsa Olivetti. Recources Conservation & Recycling (under review). [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5017239)
+* LLM-Empowered Literature Mining for Material Substitution Studies in Sustainable Concrete. Yifei Duan, Yixi Tian, Soumya Ghosh, Vineeth Venugopal, Jie Chen, Elsa Olivetti. (under review) [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5017239)
 
 * China's energy-water-land system co-evolution under carbon neutrality goal and climate impacts. Jiachen Wang *, Yifei Duan *, Hanying Jiang, Can Wang. Journal of Environmental Management, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0301479724000227)
 
