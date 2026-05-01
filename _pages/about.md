@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student at [IDSS](https://idss.mit.edu/about-us/) of [MIT](https://www.mit.edu/), and previously completed dual SM degrees at MIT IDSS.TPP(https://tpp.mit.edu/) and [EECS](https://www.eecs.mit.edu/). My research interests lie at the intersection of AI, computing, and sustainability, covering the development of AI methods including NLP, explainable AI, GNN, and generative models for application scenarios including resource mapping, industrial decarbonization, urban systems, energy systems, etc. 
+I am a first-year PhD student at [IDSS](https://idss.mit.edu/about-us/) of [MIT](https://www.mit.edu/), and previously completed dual SM degrees at MIT [IDSS.TPP](https://tpp.mit.edu/) and [EECS](https://www.eecs.mit.edu/). My research interests lie at the intersection of AI, computing, and sustainability, covering the development of AI methods including NLP, explainable AI, GNN, and generative models for application scenarios including resource mapping, industrial decarbonization, urban systems, energy systems, etc. 
 
 I have been working with [Prof. Elsa Olivetti](https://dmse.mit.edu/faculty/elsa-a-olivetti/) and [Dr. Jie Chen](https://jiechenjiechen.github.io/) for various research projects within MIT and [MIT-IBM Watson AI Lab](https://mitibmwatsonailab.mit.edu/). 
 Previously, I completed my undergraduate studies at [Tsinghua University, China](https://www.tsinghua.edu.cn/en/), and was advised by [Prof. Can Wang](https://www.tsinghua.edu.cn/enven/info/1041/1498.htm) and [Prof. Fran Moore](https://franmoore.faculty.ucdavis.edu/) for research projects.
@@ -18,6 +18,7 @@ Ongoing and Previous Projects
 Also see [Publications](/publications/)
 
 **Augmenting knowledge representations through multimodal fusion with generated text knowledge** within the context of different fields
+
 Comparing imagery-text fusion strategies for land use and land cover classification
 [[Course project blog]](https://yifeiduan.github.io/lulc_multimodal/)
 [[Code]](https://github.com/YifeiDuan/lulc_multimodal)
@@ -38,7 +39,7 @@ Text-attributed structural or compositional representations for inorganic materi
 
 
 **Cross-system modeling** and **spatiotemporal data analysis** of energy-water-land co-evolution under climate change and policy scenarios.
-[[Journal paper]](https://www.sciencedirect.com/science/article/abs/pii/S0301479724000227)
+[[Journal of Environmental Management (2024)]](https://www.sciencedirect.com/science/article/abs/pii/S0301479724000227)
 <!-- [[Code]](https://github.com/YifeiDuan/Climate-Change-and-Policy-Impacts-on-China-EWL/tree/Climate-Change-and-Policy-Impacts-EWL) -->
 <p float="left">
   <img src="images/my_imgs/ewl_coevolution/energy.PNG" width="300"/>
