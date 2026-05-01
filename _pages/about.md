@@ -59,8 +59,7 @@ Text-attributed structural or compositional representations for inorganic materi
 
 **Explainable AI** for concrete engineering property prediction and **biobjective optimization** for mix design to reduce carbon footprint and cost.
 [[AAAI workshop paper]](https://xai4sci.github.io/papers/2024/07_explainable_concrete_strength_prediction_with_amortized_gaussian_process.pdf)
-[Journal manuscript in preparation]
-[Code to be available soon]
+[[Code]](https://github.com/YifeiDuan/Explainable-Machine-Learning-for-Concrete)
 
 <img src="images/my_imgs/xai_opt_concrete/shap.png" width="700"/>
 
