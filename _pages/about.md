@@ -33,7 +33,7 @@ Comparing imagery-text fusion strategies for land use and land cover classificat
 Text-attributed structural or compositional representations for inorganic materials
 [Work in progress]
 <p float="left">
-  <img src="images/my_imgs/graph_llm/heatmap.jpg" width="400"/>
+  <img src="images/my_imgs/graph_llm/tag_atom_txt.jpg" width="700"/>
 </p>
 
 
